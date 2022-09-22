@@ -1,0 +1,11 @@
+{
+  "name": "drawer_backend",
+  "version": "1.0.0",
+  "description": "drawer_backend",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  }
+}
